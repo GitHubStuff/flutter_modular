@@ -1,4 +1,4 @@
-# fhcp
+# flutter_modular template
 
 A new Flutter project.
 
